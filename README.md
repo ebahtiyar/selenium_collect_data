@@ -4,3 +4,5 @@ First, we collected the news links with selenium to collect the data.We used hur
 Then we pulled the news from the HTML code of the news links
 
 We did the filtering of news links and news articles with functions.py file
+
+We collected around 3 million sentences
